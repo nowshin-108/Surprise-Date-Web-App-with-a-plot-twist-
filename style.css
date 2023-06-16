@@ -1,0 +1,26 @@
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Candara, Oswald;
+    }
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    }
+#happynanbe {
+    position: fixed;
+    top: 69%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    }
+#justnanbe {
+    position: absolute;
+        left: 39%;
+        top: 67.75%;
+    }
+body {
+        background-color: #c3a7a7;
+        padding: 20px;
+      }
+      
