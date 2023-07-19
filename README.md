@@ -10,5 +10,4 @@ When the user clicks "yes", they are greeted with an alert saying "YAY, I love y
 
 - HTML
 - CSS
-- JavaScript
 
